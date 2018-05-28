@@ -1,0 +1,10 @@
+The Circuit Result is: 
+
+NameofElement	ElementRectangularDomain	        ---	ElementFrequencyDomain	ElementFrequencyDomainAngle	        ---	        ---	VoltageRectangularDomain	        ---	VoltageFrequencyDomain	VoltageFrequencyDomainAngle	        ---	        ---	CurrentRectangularDomain	        ---	CurrentFrequencyDomain	CurrentFrequencyDomainAngle	
+
+         R`	      10+0i	         ||	         10	          0	         ||	         ||	8.38199+1.31997i	         ||	    8.48528	   0.156194	         ||	         ||	-0.8382-0.132i	         ||	    0.84853	    0.15619	
+
+         R2	      0-20i	         ||	         20	    -1.5708	         ||	         ||	2.63994-16.764i	         ||	    16.9706	    -1.4146	         ||	         ||	-0.8382-0.132i	         ||	    0.84853	    0.15619	
+
+         R3	      0+30i	         ||	         30	     1.5708	         ||	         ||	-3.95992+25.146i	         ||	    25.4558	    1.72699	         ||	         ||	-0.8382-0.132i	         ||	    0.84853	    0.15619	
+
